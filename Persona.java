@@ -2,9 +2,9 @@ package Persona;
 
 public class Persona {
 	
-	String nombre;
-	String edad;
-	Domicilio direccion;
+	private String nombre;
+	private String edad;
+	private Domicilio direccion;
 	
 	Persona(){
 		this.setNombre(nombre);
