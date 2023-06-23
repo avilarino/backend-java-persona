@@ -2,10 +2,10 @@ package Persona;
 
 public class Domicilio {
 
-	String calle;
-	String numero;
-	String ciudad;
-	String pais;
+	private String calle;
+	private String numero;
+	private String ciudad;
+	private String pais;
 	
 	
 	public Domicilio() {
